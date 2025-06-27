@@ -1,0 +1,11 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+}
+
+#root {
+  max-width: 900px;
+  margin: auto;
+}
